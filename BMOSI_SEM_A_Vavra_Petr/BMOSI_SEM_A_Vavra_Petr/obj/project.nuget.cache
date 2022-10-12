@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ThfvwvHJsuH60Av5EwcSpaKWv8FFwmNHgeyFXrHQbmD/Q21wKzIF8W013KDYZs5sM3ZKaq0O7H2hiXaKGdFtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Peťa\\source\\repos\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peťa\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

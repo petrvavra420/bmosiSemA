@@ -1,0 +1,17 @@
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\bin\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.exe
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\bin\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.deps.json
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\bin\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.runtimeconfig.json
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\bin\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.dll
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\bin\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.pdb
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.csproj.AssemblyReference.cache
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.AssemblyInfoInputs.cache
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.AssemblyInfo.cs
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.csproj.CoreCompileInputs.cache
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.dll
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\refint\BMOSI_SEM_A_Vavra_Petr.dll
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.pdb
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.genruntimeconfig.cache
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\ref\BMOSI_SEM_A_Vavra_Petr.dll
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\Peťa\source\repos\BMOSI_SEM_A_Vavra_Petr\BMOSI_SEM_A_Vavra_Petr\obj\Debug\net6.0\BMOSI_SEM_A_Vavra_Petr.csproj.CopyComplete
