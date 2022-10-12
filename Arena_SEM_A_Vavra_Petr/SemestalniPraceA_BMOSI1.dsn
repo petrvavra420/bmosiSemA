@@ -14,4 +14,4 @@ Timeout = 10000
 NoTXN = 0
 SyncPragma = NORMAL
 StepAPI = 0
-Database=C:\Users\Peùa\Documents\GitHub\bmosiSemA\Arena_SEM_A_Vavra_Petr\SemestalniPraceA_BMOSI1.db
+Database=C:\Users\Skola\Documents\GitHub\bmosiSemA\Arena_SEM_A_Vavra_Petr\SemestalniPraceA_BMOSI1.db

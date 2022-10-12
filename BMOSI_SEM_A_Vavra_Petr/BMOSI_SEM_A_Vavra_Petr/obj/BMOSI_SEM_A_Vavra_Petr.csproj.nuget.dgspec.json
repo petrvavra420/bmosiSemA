@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peťa\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj": {}
+    "C:\\Users\\Skola\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peťa\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj": {
+    "C:\\Users\\Skola\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peťa\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
+        "projectUniqueName": "C:\\Users\\Skola\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
         "projectName": "BMOSI_SEM_A_Vavra_Petr",
-        "projectPath": "C:\\Users\\Peťa\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
-        "packagesPath": "C:\\Users\\Peťa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peťa\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\obj\\",
+        "projectPath": "C:\\Users\\Skola\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
+        "packagesPath": "C:\\Users\\Skola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skola\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Peťa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Skola\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

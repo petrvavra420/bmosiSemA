@@ -21,10 +21,10 @@ class Simulace
             simulace.vyberNejlevnejsiCestu();
             simulace.zaokrouhliCestu();
             poleVysledku[i] = (int)simulace.finalniCena;
-            Console.WriteLine("Cislo: " + simulace.finalniCena);
+            //Console.WriteLine("Cislo: " + simulace.finalniCena);
         }
-        if (!File.Exists(path))
-        {
+        ////if (!File.Exists(path))
+        ////{
             using (StreamWriter sw = File.CreateText(path))
             {
                 for (int i = 0; i < 100000; i++)
@@ -33,7 +33,7 @@ class Simulace
                     sw.WriteLine(poleVysledku[i]);
                 }
             }
-        }
+        //}
 
     }
 
@@ -42,6 +42,7 @@ class Simulace
     private void zaokrouhliCestu()
     {
         //finalniCena = (finalniCena +1) - finalniCena % 1;
+        finalniCena /= 1000;
         finalniCena = Math.Ceiling(finalniCena);
     }
 
@@ -70,15 +71,15 @@ class Simulace
 
     private void generujCinnosti()
     {
-        poleCinnosti[0] = generujUnif(5, 10);
+        poleCinnosti[0] = generujUnif(5000, 10000);
         poleCinnosti[1] = generujEmpiricCinnost2();
-        poleCinnosti[2] = generujNorm(4, 1);
-        poleCinnosti[3] = generujNorm(12, 2);
+        poleCinnosti[2] = generujNorm(4000, 1000);
+        poleCinnosti[3] = generujNorm(12000, 2000);
         poleCinnosti[4] = generujEmpiricCinnost5();
-        poleCinnosti[5] = generujNorm(10, 3);
-        poleCinnosti[6] = 3;
+        poleCinnosti[5] = generujNorm(10000, 3000);
+        poleCinnosti[6] = 3000;
         poleCinnosti[7] = generujEmpiricCinnost8();
-        poleCinnosti[8] = generujNorm(11, 2);
+        poleCinnosti[8] = generujNorm(11000, 2000);
 
     }
 
@@ -86,16 +87,16 @@ class Simulace
     {
         Random rand = new Random();
         double[] poleEmp = {
-            1,
-            1,
-            1,
-            rand.Next(2, 6),
-            rand.Next(2, 6),
-            rand.Next(2, 6),
-            rand.Next(2,6),
-            rand.Next(2,6),
-            7,
-            7
+            1000,
+            1000,
+            1000,
+            rand.Next(2000, 5000),
+            rand.Next(2000, 5000),
+            rand.Next(2000, 5000),
+            rand.Next(2000,5000),
+            rand.Next(2000,5000),
+            7000,
+            7000
         };
         int vyber = rand.Next(10);
         return poleEmp[vyber];
@@ -105,16 +106,16 @@ class Simulace
     {
         Random rand = new Random();
         double[] poleEmp = {
-            rand.Next(3, 6),
-            rand.Next(3, 6),
-            rand.Next(3, 6),
-            rand.Next(3, 6),
-            rand.Next(3, 6),
-            rand.Next(3, 6),
-            rand.Next(6, 8),
-            rand.Next(8, 10),
-            rand.Next(8, 10),
-            rand.Next(8, 10)
+            rand.Next(3000, 5000),
+            rand.Next(3000, 5000),
+            rand.Next(3000, 5000),
+            rand.Next(3000, 5000),
+            rand.Next(3000, 5000),
+            rand.Next(3000, 5000),
+            rand.Next(6000, 7000),
+            rand.Next(8000, 9000),
+            rand.Next(8000, 9000),
+            rand.Next(8000, 9000)
         };
         int vyber = rand.Next(0,10);
         return poleEmp[vyber];
@@ -122,7 +123,7 @@ class Simulace
 
     private double generujEmpiricCinnost2()
     {
-        double[] poleEmp = { 5, 8, 8, 10, 10, 10, 10, 10, 10, 10 };
+        double[] poleEmp = { 5000, 8000, 8000, 10000, 10000, 10000, 10000, 10000, 10000, 10000 };
         Random random = new Random();
         int vyber = random.Next(0,10);
         return poleEmp[vyber];
@@ -137,7 +138,7 @@ class Simulace
 
     private double generujNorm(int str, int rozptyl)
     {
-        MathNet.Numerics.Distributions.Normal normalDist = new Normal(str, rozptyl);
+        MathNet.Numerics.Distributions.Normal normalDist = new Normal(str, Math.Sqrt(rozptyl));
         double hodnota = normalDist.Sample();
         return hodnota;
     }
