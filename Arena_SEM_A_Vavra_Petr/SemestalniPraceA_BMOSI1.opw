@@ -1,0 +1,24 @@
+[RESOURCES]
+[VARIABLES]
+CENA2 mensirovno CENA1.NumberOut True
+CENA1 mensirovno CENA3.NumberOut False
+CENA2 mensirovno CENA1.NumberOut False
+CENA1 mensirovno CENA3.NumberOut True
+Promenna1
+CenaNejlevnejsi
+Dispose 2.NumberOut
+CenaCesta3
+CenaCesta2
+CenaCesta1
+Create 1.NumberOut
+CENA3 mensirovno CENA2.NumberOut False
+CENA3 mensirovno CENA2.NumberOut True
+Cinnost7
+Cinnost6
+Cinnost5
+Cinnost4
+Cinnost3
+Cinnost2
+Cinnost1
+Cinnost9
+Cinnost8

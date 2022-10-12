@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peťa\\source\\repos\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
+      "projectUniqueName": "C:\\Users\\Peťa\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
       "projectName": "BMOSI_SEM_A_Vavra_Petr",
-      "projectPath": "C:\\Users\\Peťa\\source\\repos\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
+      "projectPath": "C:\\Users\\Peťa\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr.csproj",
       "packagesPath": "C:\\Users\\Peťa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Peťa\\source\\repos\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\obj\\",
+      "outputPath": "C:\\Users\\Peťa\\Documents\\GitHub\\bmosiSemA\\BMOSI_SEM_A_Vavra_Petr\\BMOSI_SEM_A_Vavra_Petr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
